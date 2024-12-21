@@ -1,10 +1,11 @@
 <p align="center">
     <img src='./test.jpg' alt="image" width='250px'/>
+    <br><br>
     <h1>Hello, I'm Hossein Shakouri 👋</h1>
 </p>
 
 <p align="center">Welcome to my GitHub profile! Here you'll find a collection of projects and works that I have been involved in.</p>
-
+<br><br>
 <p align="center">
     <h2>About Me</h2>
 </p>
