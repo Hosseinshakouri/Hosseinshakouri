@@ -30,19 +30,20 @@
     💼 <strong>I have a design and programming company.</strong>
 </p>
 
+<br><br>
+
 <p align="center">
     <h2>Contact Me</h2>
 </p>
-<div style="text-align: center;">
-    <center>
-        <a href="https://www.instagram.com/Hosseinshakourii">
-            <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" style="margin-right: 10px;">
-        </a>
-        <a href="https://t.me/marsteeam">
-            <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram">
-        </a>
-    </center>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://www.instagram.com/Hosseinshakourii" style="margin-right: 10px;">
+        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
+    </a>
+    <a href="https://t.me/marsteeam">
+        <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram">
+    </a>
 </div>
+
 
 
 <br><br>
