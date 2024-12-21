@@ -11,6 +11,21 @@
 </p>
 <p align="center">I'm Hossein Shakouri, a web developer and programmer with a passion for creating innovative solutions. My projects span various technologies including HTML, CSS, JavaScript, PHP, and Python.</p>
 
+<p align="center">
+    🌍 <strong>I live in Iran.</strong>
+</p>
+
+<p align="center">
+    🧠 <strong>I'm learning PHP.</strong>
+</p>
+
+<p align="center">
+    🤝 <strong>I am ready to collaborate on web development projects.</strong>
+</p>
+
+<p align="center">
+    ⚡ <strong>Fun fact: I love coding and have a knack for solving complex problems!</strong>
+</p>
 
 
 <p align="center">
