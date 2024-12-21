@@ -42,16 +42,14 @@
     </a>
 </div>
 
-
-
-
-
+<br><br>
 
 <h3>My Experience:</h3>
 <p align="center">
     <img src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,postman,powershell,py,bots,php,phpstorm,mysql,laravel&perline=4' alt='myexperience' />
 </p>
 
+<br><br>
 
 <p align="center">
     <h2>GitHub Stats</h2>
