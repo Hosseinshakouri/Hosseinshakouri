@@ -1,3 +1,4 @@
+<img src="./"/>
 <p align="center">
     <h1>Hello, I'm Hossein Shakouri 👋</h1>
 </p>
