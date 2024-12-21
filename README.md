@@ -1,4 +1,4 @@
-<img src="./test.hpg"/>
+<img src='./test.jpg' alt="image"/>
 <p align="center">
     <h1>Hello, I'm Hossein Shakouri 👋</h1>
 </p>
