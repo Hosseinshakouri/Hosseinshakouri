@@ -1,4 +1,4 @@
-<img src='./test.jpg' alt="image"/>
+<img src='./test.jpg' alt="image" width='250px'/>
 <p align="center">
     <h1>Hello, I'm Hossein Shakouri 👋</h1>
 </p>
