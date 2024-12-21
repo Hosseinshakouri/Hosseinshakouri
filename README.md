@@ -36,7 +36,7 @@
 <p align="center">
     <h2>Contact Me</h2>
 </p>
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+<p align="center">
     <a href="https://www.instagram.com/Hosseinshakourii" style="margin-right: 10px;">
         <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
     </a>
@@ -44,6 +44,8 @@
         <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram">
     </a>
 </div>
+</p>
+
 
 
 
