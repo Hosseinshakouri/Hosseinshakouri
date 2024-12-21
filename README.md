@@ -34,13 +34,16 @@
     <h2>Contact Me</h2>
 </p>
 <div style="text-align: center;">
-    <a href="https://www.instagram.com/Hosseinshakourii">
-        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" style="margin-right: 10px;">
-    </a>
-    <a href="https://t.me/marsteeam">
-        <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram">
-    </a>
+    <center>
+        <a href="https://www.instagram.com/Hosseinshakourii">
+            <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" style="margin-right: 10px;">
+        </a>
+        <a href="https://t.me/marsteeam">
+            <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram">
+        </a>
+    </center>
 </div>
+
 
 <br><br>
 
