@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    🧠 <strong>I'm learning PHP.</strong>
+    🧠 <strong>I am a PHP expert.</strong>
 </p>
 
 <p align="center">
@@ -23,6 +23,10 @@
 
 <p align="center">
     ⚡ <strong>Fun fact: I love coding and have a knack for solving complex problems!</strong>
+</p>
+
+<p align="center">
+    💼 <strong>I have a design and programming company.</strong>
 </p>
 
 <p align="center">
