@@ -1,5 +1,6 @@
-<img src='./test.jpg' alt="image" width='250px'/>
 <p align="center">
+    <img src='./test.jpg' alt="image" width='250px'/>
+
     <h1>Hello, I'm Hossein Shakouri 👋</h1>
 </p>
 
