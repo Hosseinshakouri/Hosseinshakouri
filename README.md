@@ -4,8 +4,6 @@
 
 <p align="center">Welcome to my GitHub profile! Here you'll find a collection of projects and works that I have been involved in.</p>
 
-
-
 <p align="center">
     <h2>About Me</h2>
 </p>
@@ -27,7 +25,6 @@
     ⚡ <strong>Fun fact: I love coding and have a knack for solving complex problems!</strong>
 </p>
 
-
 <p align="center">
     <h2>Contact Me</h2>
 </p>
@@ -36,6 +33,7 @@
     <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/username">Your LinkedIn</a></li>
     <li>🌐 <strong>Personal Website:</strong> <a href="https://www.yourwebsite.com">Your Website</a></li>
 </ul>
+
 
 <p align="center">
     <h2>GitHub Stats</h2>
