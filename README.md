@@ -52,7 +52,6 @@
     <img src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,postman,powershell,py,bots,php,phpstorm,mysql,laravel&perline=4' alt='myexperience' />
 </p>
 
----
 
 <p align="center">
     <h2>GitHub Stats</h2>
