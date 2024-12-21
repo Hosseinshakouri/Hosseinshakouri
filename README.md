@@ -34,10 +34,18 @@
     <h2>Contact Me</h2>
 </p>
 <ul style="list-style-type: none; text-align: center;">
-    <li>📫 <strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/username">Your LinkedIn</a></li>
-    <li>🌐 <strong>Personal Website:</strong> <a href="https://www.yourwebsite.com">Your Website</a></li>
+    <li>
+        <a href="https://www.instagram.com/your-profile">
+            <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/your-profile">
+            <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram">
+        </a>
+    </li>
 </ul>
+
 
 <p align="center">
     <h2>GitHub Stats</h2>
