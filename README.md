@@ -42,5 +42,8 @@
 <p align="center">
     <h2>GitHub Stats</h2>
 </p>
+
+<h3>My Expir:</h3>
+<img src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,postman,powershell,py,bots,php,phpstorm,mysql,laravel' alt='myexprides' />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hosseinshakouri&show_icons=true&theme=radical" alt="Hosseinshakouri's GitHub stats"></p>
 
