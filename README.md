@@ -4,9 +4,6 @@
 
 <p align="center">Welcome to my GitHub profile! Here you'll find a collection of projects and works that I have been involved in.</p>
 
-<p align="center">
-    <h2>Projects</h2>
-</p>
 
 
 <p align="center">
