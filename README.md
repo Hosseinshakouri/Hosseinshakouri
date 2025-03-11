@@ -1,5 +1,5 @@
 <p align="center">
-    <img src='./test.jpg' alt="image" width='250px'/>
+    <img src='./photo_2025-03-11_13-15-42.jpg' alt="image" width='250px'/>
     <br><br>
     <h1>Hello, I'm Hossein Shakouri 👋</h1>
 </p>
