@@ -36,7 +36,7 @@
     <a href="https://www.instagram.com/Hosseinshakourii" style="margin-right: 10px;">
         <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
     </a>
-    <a href="https://t.me/marsteeam">
+    <a href="https://t.me/hosseinshakouriiii">
         <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram">
     </a>
 </div>
