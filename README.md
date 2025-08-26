@@ -1,8 +1,4 @@
-<p align="center">
-    <img src='./photo_2025-03-11_13-15-42.jpg' alt="image" width='250px'/>
-    <br><br>
-    <h1>Hello, I'm Hossein Shakouri 👋</h1>
-</p>
+
 
 <p align="center">Welcome to my GitHub profile! Here you'll find a collection of projects and works that I have been involved in.</p>
 <br><br>
